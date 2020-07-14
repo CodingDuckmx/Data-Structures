@@ -163,7 +163,21 @@ return elements in Last In First Out order.
 
 """
 
+# class Stack:
+#     def __init__(self):
+#         self.size = 0
+#         self.storage = []
 
+#     def __len__(self):
+#         return len(self.storage)
+
+#     def push(self, value):
+#         return self.storage.append(value)
+
+
+#     def pop(self):
+#         if len(self.storage) > 0:
+#             return self.storage.pop(-1)
 
 
 class Stack:
