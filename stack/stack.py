@@ -177,7 +177,9 @@ return elements in Last In First Out order.
 
 #     def pop(self):
 #         if len(self.storage) > 0:
+
 #             return self.storage.pop()
+
 
 
 class Stack:

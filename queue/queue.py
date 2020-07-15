@@ -183,7 +183,6 @@ Stretch: What if you could only use instances of your Stack class to implement t
 #             return self.storage.pop(0)
 
 
-
 class Queue:
     def __init__(self):
         self.size = 0
